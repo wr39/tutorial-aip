@@ -1,0 +1,4 @@
+yt-dlp
+ipywidgets
+google-cloud-storage
+google-cloud-secret-manager
